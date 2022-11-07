@@ -1,0 +1,26 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+.add-style {
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.add-style:hover {
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer;
+}
+
+.bold-line {
+    border: 3px solid blue;
+    border-radius: 5px;
+}
